@@ -203,3 +203,4 @@ __marimo__/
 .streamlit/secrets.toml
 
 ny_taxi_postgres_data/
+keys/
