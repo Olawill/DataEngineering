@@ -207,3 +207,5 @@ keys/
 .vscode/
 
 docker_sql/*.csv
+
+.terraform/
